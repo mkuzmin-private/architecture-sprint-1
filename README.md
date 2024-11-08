@@ -62,3 +62,11 @@
         3. setUserAvatar
 
 - `auth.js` - все, что касается авторизации/аутентификации пользователя.
+
+3. **host**
+
+В подкаталог `microfrontend/host/src/components` будут вынесены 
+следующие компоненты:
+- `Footer`
+- `Header`
+- `ProtectedRoute`
